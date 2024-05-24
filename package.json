@@ -1,0 +1,15 @@
+{
+  "name": "test-audio-context",
+  "productName": "TestAudioContext",
+  "description": "Test AudioContext:decodeAudioData",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "28.3.3"
+  }
+}
